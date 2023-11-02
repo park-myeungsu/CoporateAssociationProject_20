@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+
+src/dataset/before_labelings
+src/dataset/formatted_labelings
+src/dataset/images
