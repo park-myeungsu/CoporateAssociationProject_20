@@ -3,7 +3,6 @@ import shutil
 import time
 import math
 
-
 def move_files(source_dir, target_dir, moving_files_number, delay):
     """
     파일들을 지정한 폴더로 moving_files_number 개수 만큼 옮기며, 각 작업 당 딜레이를 부여 합니다.
